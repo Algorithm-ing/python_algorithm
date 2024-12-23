@@ -41,4 +41,12 @@
     - [하노이 탑](https://www.acmicpc.net/problem/1914)
     - [카드놓기](https://www.acmicpc.net/problem/5568)
     - [재귀함수가 뭔가요?](https://www.acmicpc.net/problem/17478)
-- 2주차: To be continued...
+- 2주차: (12월 29일)
+  - [단어 정렬](https://www.acmicpc.net/problem/1181)
+  - [스택](https://www.acmicpc.net/problem/10828)
+  - [제로](https://www.acmicpc.net/problem/10773)
+  - [괄호](https://www.acmicpc.net/problem/9012)
+  - [막대기](https://www.acmicpc.net/problem/17608)
+  - [괄호의 값](https://www.acmicpc.net/problem/2504)
+  - [탑](https://www.acmicpc.net/problem/2493)
+  - [크게 만들기](https://www.acmicpc.net/problem/2812)
