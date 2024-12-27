@@ -32,7 +32,7 @@
 
 ### 📂 문제 리스트
 
-- 1주차: (12월 22일 미팅 완료)
+- 1주차: (12월 22일 10시)
     - [수 정렬하기 3](https://www.acmicpc.net/problem/10989)
     - [수 정렬하기 2](https://www.acmicpc.net/problem/2751)
     - [수 정렬하기](https://www.acmicpc.net/problem/2750)
@@ -41,7 +41,7 @@
     - [하노이 탑](https://www.acmicpc.net/problem/1914)
     - [카드놓기](https://www.acmicpc.net/problem/5568)
     - [재귀함수가 뭔가요?](https://www.acmicpc.net/problem/17478)
-- 2주차: (12월 29일)
+- 2주차: (12월 29일 09시)
   - [단어 정렬](https://www.acmicpc.net/problem/1181)
   - [스택](https://www.acmicpc.net/problem/10828)
   - [제로](https://www.acmicpc.net/problem/10773)
