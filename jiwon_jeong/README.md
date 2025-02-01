@@ -75,3 +75,8 @@
   - [공유기 설치](https://www.acmicpc.net/problem/2110)
   - [두 용액](https://www.acmicpc.net/problem/2470)
   - [사냥꾼](https://www.acmicpc.net/problem/8983)
+- 7주차: (2월 2일 09시)
+  - [색종이 만들기](https://www.acmicpc.net/problem/2630)
+  - [곱셈](https://www.acmicpc.net/problem/1629)
+  - [행렬 제곱](https://www.acmicpc.net/problem/10830)
+  - [가장 가까운 두 점](https://www.acmicpc.net/problem/2261)
