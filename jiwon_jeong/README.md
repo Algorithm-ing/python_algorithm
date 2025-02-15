@@ -80,3 +80,9 @@
   - [곱셈](https://www.acmicpc.net/problem/1629)
   - [행렬 제곱](https://www.acmicpc.net/problem/10830)
   - [가장 가까운 두 점](https://www.acmicpc.net/problem/2261)
+- 8주차: (2월 9일) -> 논문 제출하느라 못함
+- 9주차: (2월 16일 09시)
+  - [바이러스](https://www.acmicpc.net/problem/2606)
+  - [트리의 부모 찾기](https://www.acmicpc.net/problem/11725)
+  - [이분 그래프](https://www.acmicpc.net/problem/1707)
+  - [아침 산책](https://www.acmicpc.net/problem/21606)
